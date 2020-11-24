@@ -53,7 +53,7 @@ class App extends React.Component {
     return (
       <div className='ui container wrap'>
         <div className='icon'>
-          <a href='http://youtube.com' target='_blank' rel='youtube'>
+          <a href='http://youtube.com' target='_blank' rel='noreferrer'>
             <i class='fab fa-youtube fa-6x'></i>
           </a>
         </div>
